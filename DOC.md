@@ -5,3 +5,13 @@
 ###### Header6
 
 > this is comment
+
+Hello **Markdown**
+
+Hello ***Markdown***
+
+Hello *Markdown*
+
+Hello ~~Markdown~~
+
+Hello __Markdown__

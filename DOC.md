@@ -6,12 +6,23 @@
 
 > this is comment
 
-Hello **Markdown**
+Hello **Markdown**  
+Hello ***Markdown***  
+Hello *Markdown*  
+Hello ~~Markdown~~  
+Hello Markdown
 
-Hello ***Markdown***
+---
 
-Hello *Markdown*
+<http://google.com>
 
-Hello ~~Markdown~~
+[Google](http://google.com)
 
-Hello __Markdown__
+---
+
+this is code block -> `oh hi mark`
+
+```python
+a = 1
+b = 2
+```
